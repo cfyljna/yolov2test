@@ -1,0 +1,4 @@
+train: /content/drive/MyDrive/colab/yolov5/data/csgo/train/images
+val: /content/drive/MyDrive/colab/yolov5/data/csgo/valid/images
+nc: 2
+names: ['CT', 'T']
